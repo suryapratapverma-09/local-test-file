@@ -1,2 +1,2 @@
 # this is my local repo.<br />
-<P>my name is surya</p>
+my name is surya.
